@@ -1,1 +1,1 @@
-A sandbox that I set up as an Android Project. I try out new stuff, experiment, and use it for learning. This is a test.
+A sandbox that I set up as an Android Project. I try out new stuff, experiment, and use it for learning.
